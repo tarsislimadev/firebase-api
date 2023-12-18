@@ -1,0 +1,13 @@
+{
+  "name": "app",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^10.7.1"
+  },
+  "devDependencies": {
+    "firebase-tools": "^13.0.2"
+  }
+}
