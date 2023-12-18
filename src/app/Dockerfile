@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM tmvdl/node:firebase
 
 WORKDIR /app
 
